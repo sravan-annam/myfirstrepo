@@ -1,0 +1,13 @@
+OSVersion:10.0.19045
+OSType:x64
+ScreenResolution:1366x768
+CPUProcessor:Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+CPUCores:4
+MemorySize:8192MB
+GPU0:NVIDIA GeForce 940MX
+GPU0MemorySize:2048MB
+GPU1:Intel(R) HD Graphics 620
+GPU1MemorySize:1024MB
+DirectXVersion:DirectX 12
+OpenGLRenderer:GeForce 940MX/PCIe/SSE2
+OpenGLVersion:4.5.0 NVIDIA 382.64
